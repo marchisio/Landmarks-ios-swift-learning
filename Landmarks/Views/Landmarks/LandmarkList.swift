@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct LandmarkList: View {
-    
     @EnvironmentObject var modelData: ModelData
     @State private var showFavoritesOnly = false
     
