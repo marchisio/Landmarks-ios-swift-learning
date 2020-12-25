@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C46B2F62596B0A7008E76E0 /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C46B2F52596B0A7008E76E0 /* LandmarkSettings.swift */; };
 		6C8872322591B67F00CE2992 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8872312591B67F00CE2992 /* LandmarksApp.swift */; };
 		6C8872362591B68300CE2992 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C8872352591B68300CE2992 /* Assets.xcassets */; };
 		6C8872392591B68300CE2992 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C8872382591B68300CE2992 /* Preview Assets.xcassets */; };
@@ -145,6 +146,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6C46B2F52596B0A7008E76E0 /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 		6C88722E2591B67F00CE2992 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C8872312591B67F00CE2992 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		6C8872332591B67F00CE2992 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -480,6 +482,7 @@
 				6CE08F4325966D8600D34A64 /* MacLandmarks.entitlements */,
 				6CE08F3F25966D8600D34A64 /* Preview Content */,
 				6CE08F7B25966EE300D34A64 /* LandmarkDetail.swift */,
+				6C46B2F52596B0A7008E76E0 /* LandmarkSettings.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -799,6 +802,7 @@
 			files = (
 				6CE08F3C25966D8400D34A64 /* ContentView.swift in Sources */,
 				6CE08F6E25966E3200D34A64 /* Profile.swift in Sources */,
+				6C46B2F62596B0A7008E76E0 /* LandmarkSettings.swift in Sources */,
 				6CE08F6A25966E3200D34A64 /* ModelData.swift in Sources */,
 				6CE08F7425966E3200D34A64 /* MapView.swift in Sources */,
 				6C90C8142596A40B0092EBC9 /* LandmarkCommands.swift in Sources */,
