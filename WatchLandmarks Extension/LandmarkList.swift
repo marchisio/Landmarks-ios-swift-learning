@@ -29,9 +29,9 @@ struct LandmarkList: View {
                         LandmarkRow(landmark: landmark)
                     }
                 }
-                .navigationTitle("Landmarks")
-                .frame(minWidth: 300)
             }
+            .navigationTitle("Landmarks")
+            .frame(minWidth: 300)
         }
     }
 }
