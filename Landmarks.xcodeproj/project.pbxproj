@@ -44,6 +44,7 @@
 		6CD33A55259571AF00E1D66C /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD33A54259571AF00E1D66C /* PageViewController.swift */; };
 		6CD33A5A259575B300E1D66C /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD33A59259575B300E1D66C /* FeatureCard.swift */; };
 		6CD33A5F2595786900E1D66C /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD33A5E2595786900E1D66C /* PageView.swift */; };
+		6CD33A642595864900E1D66C /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD33A632595864900E1D66C /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +108,7 @@
 		6CD33A54259571AF00E1D66C /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		6CD33A59259575B300E1D66C /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		6CD33A5E2595786900E1D66C /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		6CD33A632595864900E1D66C /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -299,6 +301,7 @@
 			children = (
 				6CD33A54259571AF00E1D66C /* PageViewController.swift */,
 				6CD33A5E2595786900E1D66C /* PageView.swift */,
+				6CD33A632595864900E1D66C /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -444,6 +447,7 @@
 				6C8872732591C97800CE2992 /* MapView.swift in Sources */,
 				6CD33A22259461A800E1D66C /* GraphCapsule.swift in Sources */,
 				6C8872322591B67F00CE2992 /* LandmarksApp.swift in Sources */,
+				6CD33A642595864900E1D66C /* PageControl.swift in Sources */,
 				6C88729F2592E68100CE2992 /* FavoriteButton.swift in Sources */,
 				6CD33A352595160700E1D66C /* CategoryItem.swift in Sources */,
 				6CD33A24259461A800E1D66C /* HikeDetail.swift in Sources */,
